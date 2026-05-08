@@ -34,6 +34,7 @@ Happy to receive your pull requests!
 
 - Beitrag von Lana zur DVC-E1: Geschafft :)
 
-- Beitrag von Jannis nach der Aufgabe:
-- <img width="245" height="206" alt="image" src="https://github.com/user-attachments/assets/873bf029-ef75-4be3-b45a-38022496ad1e" />
+- Beitrag von Jannis:
+- <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/4e6e1ad9-efd2-4c3e-83fa-368a79e84923" />
+
 
